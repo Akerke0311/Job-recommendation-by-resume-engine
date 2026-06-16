@@ -13,7 +13,7 @@ Traditional Applicant Tracking Systems (ATS) rely heavily on exact keyword filte
 
 ---
 
-## 📊 Dataset Ingestion & Engineering
+##  Dataset Ingestion & Engineering
 
 The system synthesizes data across three primary corporate registries:
 1. **IT Resume Dataset (`resumes_database.csv`):** Structured technical profiles.
